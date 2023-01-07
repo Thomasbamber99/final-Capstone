@@ -15,7 +15,8 @@ ____________________
 To install this program, download both the inventory.py and inventory.txt files and proceed to drag and drop them
 into the same folder, once you have done this you can run the .py file using any code editor. press f5 to run the
 program and once you are presented with the menu, first select option 1 to read from the text file. This will
-intialise the database and then you can proceed to work with the file.
+intialise the database and then you can proceed to work with the file. Make sure python is installed on your computer
+if you are using VScode install Python and Pylance extensions.
 
 Using inventory.py
 ___________________
