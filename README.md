@@ -21,7 +21,7 @@ if you are using VScode install Python and Pylance extensions.
 # Using inventory.py
 ___
 
-![image1](https://user-images.githubusercontent.com/112674211/211157813-acd00d65-a3ef-4c1c-9e2a-193985d132a6.png)
+# Restock feature
 
 ![image2](https://user-images.githubusercontent.com/112674211/211157926-ec049538-1b19-442e-84c7-b9f42cb2a647.png)
 
