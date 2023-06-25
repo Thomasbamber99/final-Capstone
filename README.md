@@ -21,46 +21,57 @@ if you are using VScode install Python and Pylance extensions.
 # Using inventory.py
 ___
 
-# Read shoes data
+## Read shoes data
 ___
-
-![image2](https://user-images.githubusercontent.com/112674211/211157926-ec049538-1b19-442e-84c7-b9f42cb2a647.png)
 
 This function opens the file, inventory.txt, and reads the data, it then creates an object with this data, and appends the object into a list. Each line in the text file represents a different object ( or product).
+![img1](https://github.com/Thomasbamber99/final-Capstone/blob/5d4c13bef60beb2f4d4a4849c981efea55264c3d/img/Read%20data.png)
 ___
 
-# Capture shoes
+## Capture shoes
 ___
-
-![image3](https://user-images.githubusercontent.com/112674211/211157927-91ac5bdc-8655-4790-8820-2071d860a27c.png)
 
 This function allows the user to input data to create a new object that can be appended to the shoes list.
 
-![image4](https://user-images.githubusercontent.com/112674211/211157930-365ed9c8-5afe-477a-99d2-cf87a9f0e980.png)
+![image2](https://github.com/Thomasbamber99/final-Capstone/blob/5d4c13bef60beb2f4d4a4849c981efea55264c3d/img/Capture%20data.png)
 ___
 
-# View all
+## View all
 ___
-
-![image5](https://user-images.githubusercontent.com/112674211/211157934-d620b9b4-b794-4b03-be80-01216868b9cb.png)
 
 This function iterates over the shoes list and prints out the the information in an easy to read manner.
+
+![image5](https://github.com/Thomasbamber99/final-Capstone/blob/5d4c13bef60beb2f4d4a4849c981efea55264c3d/img/View%20all%20shoes.png)
 ___
 
-# Re stock
+## Re stock
 ___
 
 This function finds the product object with the lowest quantity of stock. Which is the product in need of a restock. The program asks the user if they want to update the quantity of items. This function updates the information stored on the .txt file.
+
+![img11](https://github.com/Thomasbamber99/final-Capstone/blob/5d4c13bef60beb2f4d4a4849c981efea55264c3d/img/Re%20stock.png)
+
+![img12](https://github.com/Thomasbamber99/final-Capstone/blob/5d4c13bef60beb2f4d4a4849c981efea55264c3d/img/Re_stock%202.png)
 ___
 
-# Search shoe
+## Search shoe
 ___
 
 Prints data of the specified object the user inputs into the terminal.
+
+![img33](https://github.com/Thomasbamber99/final-Capstone/blob/5d4c13bef60beb2f4d4a4849c981efea55264c3d/img/Search%20shoe.png)
 ___
 
-# Total value of stock
+## Total value of stock
 ___
 
 Calaculates and displays the total value of all stock currently on the system.
 
+![img33](https://github.com/Thomasbamber99/final-Capstone/blob/5d4c13bef60beb2f4d4a4849c981efea55264c3d/img/Total%20value.png)
+___
+
+#Thank you and goodbye!
+
+![Quit](https://github.com/Thomasbamber99/final-Capstone/assets/112674211/5ad42ecf-9de7-4000-a319-282fccf4b429)
+
+___
